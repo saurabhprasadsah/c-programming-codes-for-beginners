@@ -40,9 +40,9 @@ class emp
 	}
 	void emp::show()
 	{
-		cout<<"\nThe Employ Id is ="<<empid;
-		cout<<"\nName of Employ is ="<<empname;
-		cout<<"\nSalary is ="<<sal;
+		cout<<"\n The Employ Id is ="<<empid;
+		cout<<"\n Name of Employ is ="<<empname;
+		cout<<"\n Salary is ="<<sal;
 	}
 main()
 {
